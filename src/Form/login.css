@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.for{
+    width: 50%;
+    height:50px;
+    /* margin: auto; */
+}
+
+.div{
+    width: 40%;
+    margin: auto;
+}
+
+.bid{
+    width: 150%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.inp{
+    width: 150%;
+    padding: 10px;
+    border-radius: 20px; 
+}
+
+.btn{
+    width: 150%;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
+
+.h1{
+    text-align: center;
+    margin-left: 80px;
+
+}
